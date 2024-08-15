@@ -67,8 +67,6 @@ India has about 10.6 lakh polling stations and there for the data is decentraliz
 
 Voter’s data is not compromised as the data which is being decentralised is only the number of votes by each candidate but not voter’s choice. On the other side the choice of the voter is also decentralised which against Indian government policies.
 
-##### TEAM MEMBER/CONTRIBUTOR #####
-Abhiram Borige
 
 
 
