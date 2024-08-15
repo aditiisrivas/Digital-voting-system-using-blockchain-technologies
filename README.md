@@ -57,8 +57,7 @@ The system we are using is, while the polling process is going on. We collect th
 ### **AFTER THE MINING THE CHAIN LOOKS LIKE** ###
 ![image](https://user-images.githubusercontent.com/88433888/197355183-4da6e54b-d17e-4649-9a02-c5e6d2089855.png)
 
-### **THE PROCESS THAT GOES ON BACKEND** ###
-![image](https://user-images.githubusercontent.com/88433888/197355204-ebdb1ec8-addc-486f-ba97-1e6d080516aa.png)
+
 
 ### **CONCLUSION** ###
 Our proposal of blockchain implementation in online voting system is better then what used in Estonia government since they made each of ten to fifteen votes as a block and hashed them (mine). Whereas on the other hand over proposal hashes the results of polling therefore very less resources spending in mining. Saving a lot of government resources.
